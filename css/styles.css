@@ -62,3 +62,15 @@ li a {
   padding-left:70px;
   display: flex;
 }
+
+form {
+  border: solid black 5px;
+  padding: 1em;
+  width: 40%;
+  min-width: 15em;
+  max-width: 26.5em;
+}
+
+.email-title {
+  margin-top: 0;
+}
