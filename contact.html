@@ -3,33 +3,48 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="css/styles.css"/>
+    <link href="https://fonts.googleapis.com/css?family=Teko" rel="stylesheet">
   </head>
   <body>
     <header class="header">
-    <ul>
-      <li> <a href="index.html">Home</a></li>
-      <li> <a href="bio.html">Bio</a></li>
-      <li> <a href="contact.html">Contact</a></li>
-      <li> <a href="cv.html">CV</a></li>
-    </ul>
+      <ul>
+        <li> <a href="index.html">Home</a></li>
+        <li> <a href="bio.html">Bio</a></li>
+        <li> <a href="contact.html">Contact</a></li>
+        <li> <a href="cv.html">CV</a></li>
+      </ul>
+      <h1 class="title"> The World Of Ryan Haskins </h1>
     </header>
-    <h1> Hello world </h1>
-    <form>
-      <h1 class="email-title">Contact me via email here.</h1>
+    <div class="content-area">
       <div>
-        <label for="email-name">Name:</label>
-        <input type="text" id="email-name">
+        <img class="contact-image" src="img/otter1.jpg">
       </div>
-      <div>
-        <label for="email-from">Email:</label>
-        <input type="text" id="email-from">
-      </div>
-      <div>
-        <label for="email-subject">Subject:</label>
-        <input type="text" id="email-subject">
-      </div>
-    </form>
-    <footer class="footer">
+      <h1 class="content"> Contact Me: </h1>
+      <h2 class="content"> Address: </h2>
+      <p class="content"> 2A Durvanvale Road<br>Durvan<br>Numblebee<br> xx7 8xx</p>
+      <h3 class="content"> Number:  </h3>
+      <h4 class="content"> Mobile: 07777777777<br>Home: 011111 555555 </h4>
+
+      <form>
+        <h1 class="email-title">Email me here.</h1>
+        <div class="form-layout">
+          <label for="email-name">Name:</label>
+          <input type="text" id="email-name">
+        </div>
+        <div class="form-layout">
+          <label for="email-from">Email:</label>
+          <input type="text" id="email-from">
+        </div>
+        <div class="form-layout">
+          <label for="email-subject">Topic:</label>
+          <input type="text" id="email-subject">
+        </div>
+        <div class="form-layout">
+          <textarea rows="7" cols="25" id="email-content"> </textarea>
+        </div>
+      </form>
+    </div>
+      <footer class="footer">
     </footer>
   </body>
 </html>

@@ -1,10 +1,17 @@
+.content-area {
+  min-height: 90%;
+  margin-left: 1.5em;
+}
+
+
 .title {
-  color: red;
-  padding:10px;
+  color: black;
+  padding:5px;
   margin:0;
   font-family: 'Teko',sans-serif;
   display: flex;
   justify-content: center;
+  font-size: 40;
 
 }
 
@@ -29,6 +36,8 @@ ul {
     margin: 0;
     padding: 10;
     overflow: hidden;
+    display: flex;
+    justify-content: center;
 }
 
 li {
@@ -37,10 +46,12 @@ li {
 
 li a {
     display: block;
-    color: white;
+    color: black;
     text-align: center;
     padding: 10px;
     text-decoration: none;
+    font-size: 20;
+    border-bottom: solid black; 5px;
 }
 /* this changes the look of the navigation bar when hovered over. */
 
@@ -49,28 +60,43 @@ li a {
   text-decoration: underline;
 }
 
-.otter-image {
-  height: 100px;
-  width: 100px;
+.index-image {
+  height: 600px;
+  width: 200px;
   float: left;
   display: flex;
   padding-left: 10px;
   padding-top: 30px;
   padding-bottom: 30px;
 }
+.contact-image {
+  height: 400px;
+  width: 320px;
+  float: right;
+  display: flex;
+  justify-content: flex-end;
+  border: solid rgb(149,194,215); 5px;
+}
+
 .content {
-  padding-left:70px;
+  padding-left:30px;
   display: flex;
 }
 
 form {
-  border: solid black 5px;
-  padding: 1em;
+  border: solid rgb(149,194,215); 5px;
+  padding: 2em;
   width: 40%;
   min-width: 15em;
   max-width: 26.5em;
+  flex-direction: row;
+  margin-left: 30px;
 }
 
+.form-layout {
+  margin: 10;
+}
 .email-title {
-  margin-top: 0;
+  color: rgb(149,194,215);
+  text-decoration: underline;
 }
