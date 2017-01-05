@@ -1,5 +1,5 @@
 .content-area {
-  min-height: 90%;
+  min-height: 80%;
   margin-left: 1.5em;
 }
 
@@ -30,7 +30,7 @@
 
 }
 
-/* the code below is for styling for lists mainly used for the navigation bar. */
+/* the code below is for styling list used for the navigation bar. */
 ul {
     list-style-type: none;
     margin: 0;
@@ -53,9 +53,6 @@ li a {
     font-size: 20;
     border-bottom: solid black; 5px;
 }
-/* this changes the look of the navigation bar when hovered over. */
-
-
 
 .index-image {
   height: 600px;
@@ -67,12 +64,22 @@ li a {
   padding-bottom: 10px;
 }
 .contact-image {
-  height: 400px;
+  height: 500px;
   width: 320px;
   float: right;
   display: flex;
   justify-content: flex-end;
-  border: solid rgb(149,194,215); 5px;
+}
+
+.bio-title{
+  display: flex;
+  justify-content: center;
+  text-decoration: underline;
+}
+
+.bio-content{
+  display: flex;
+  justify-content: flex-start;
 }
 
 .content {
