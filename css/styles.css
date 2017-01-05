@@ -1,3 +1,6 @@
+div {
+  margin:0;
+}
 .content-area {
   min-height: 80%;
   margin-left: 1.5em;
@@ -40,11 +43,9 @@ ul {
     justify-content: center;
 }
 
-li {
-    float: left;
-}
 
-li a {
+
+.nav-list {
     display: block;
     color: black;
     text-align: center;
@@ -54,11 +55,27 @@ li a {
     border-bottom: solid black; 5px;
 }
 
+.cv-list {
+  display: flex;
+  justify-content: flex-start;
+  list-style-type: disc;;
+}
+
+.cv-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  width: 320px;
+
+}
+
 .index-image {
   height: 600px;
   width: 200px;
   float: left;
   display: flex;
+  justify-content: flex-end;
   padding-left: 10px;
   padding-top: 30px;
   padding-bottom: 10px;
