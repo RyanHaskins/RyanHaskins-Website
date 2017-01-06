@@ -1,49 +1,69 @@
 <!DOCTYPE html>
 <html>
   <head>
+<!--   the below section links all the relevant files and the and url's into the website -->
     <meta charset="utf-8">
     <link rel="stylesheet" href="css/styles.css"/>
     <link href="https://fonts.googleapis.com/css?family=Teko" rel="stylesheet">
   </head>
   <body>
     <header class="header">
+<!-- Below is where the logo image is added -->      
+      <div>
+        <img class="logo-image" src="img/logo_placementholder.png">
+      </div>
+<!-- navigation section. How each page links up -->
       <ul>
-        <<li> <a href="index.html" class="nav-list">Home</a></li>
+        <li> <a href="index.html" class="nav-list">Home</a></li>
         <li> <a href="bio.html" class="nav-list">Bio</a></li>
         <li> <a href="contact.html" class="nav-list">Contact</a></li>
         <li> <a href="cv.html" class="nav-list">CV</a></li>
       </ul>
+<!-- website name is the line below this uses the google API webfont which is linked in the head section -->
       <h1 class="title"> The World Of Ryan Haskins </h1>
     </header>
+<!-- The below div sets out the content area which also makes sure that the footer stays at the bottom of the page due to the class styling -->
     <div class="content-area">
+<!-- div below is about the image on the page. -->
       <div>
         <img class="contact-image" src="img/stickman.png">
       </div>
+<!-- this is the main text content on the page -->
       <h1 class="content"> Contact Me: </h1>
       <h2 class="content"> Address: </h2>
       <p class="content"> 2A Durvanvale Road<br>Durvan<br>Numblebee<br> xx7 8xx</p>
       <h3 class="content"> Number:  </h3>
       <h4 class="content"> Mobile: 07777777777<br>Home: 011111 555555 </h4>
-
+<!-- The below is the layout for the static form on the page -->
       <form>
+<!-- form title -->
         <h1 class="email-title">Email me here.</h1>
         <div class="form-layout">
+<!-- name label -->
           <label for="email-name">Name:</label>
           <input type="text" id="email-name">
         </div>
+<!-- email label -->
         <div class="form-layout">
           <label for="email-from">Email:</label>
           <input type="text" id="email-from">
         </div>
+<!-- subject/topic label -->
         <div class="form-layout">
           <label for="email-subject">Topic:</label>
           <input type="text" id="email-subject">
         </div>
+<!-- text section for the content of the email -->
         <div class="form-layout">
           <textarea rows="7" cols="25" id="email-content"> </textarea>
         </div>
+<!-- Submit button -->
+        <div class="form-layout">
+          <button>Submit</button>
+        </div>
       </form>
     </div>
+<!-- footer section below -->
       <footer class="footer">
     </footer>
   </body>
