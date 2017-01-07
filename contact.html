@@ -9,24 +9,28 @@
   <body>
     <header class="header">
 <!-- Below is where the logo image is added -->
-      <div>
-        <img class="logo-image" src="img/logo_placementholder.png">
+      <div class="logo-placement">
+        <a href="index.html"> <img class="logo-image" src="img/logo_placement_holder.png"> </a>
       </div>
 <!-- navigation section. How each page links up -->
-      <ul>
-        <li> <a href="index.html" class="nav-list">Home</a></li>
-        <li> <a href="bio.html" class="nav-list">Bio</a></li>
-        <li> <a href="contact.html" class="nav-list">Contact</a></li>
-        <li> <a href="cv.html" class="nav-list">CV</a></li>
-      </ul>
+      <div class="nav-placement">
+        <ul>
+          <li> <a href="index.html" class="nav-list">Home</a></li>
+          <li> <a href="bio.html" class="nav-list">Bio</a></li>
+          <li> <a href="contact.html" class="nav-list">Contact</a></li>
+          <li> <a href="cv.html" class="nav-list">CV</a></li>
+        </ul>
+      </div>
 <!-- website name is the line below this uses the google API webfont which is linked in the head section -->
-      <h1 class="title"> The World Of Ryan Haskins </h1>
+      <div class="title-placement">
+        <h1 class="title"> The World Of Ryan Haskins </h1>
+      </div>
     </header>
 <!-- The below div sets out the content area which also makes sure that the footer stays at the bottom of the page due to the class styling -->
     <div class="content-area">
 <!-- div below is about the image on the page. -->
       <div>
-        <img class="contact-image" src="img/stickman.png">
+        <img class="contact-image" src="img/index_stickman_image.png">
       </div>
 <!-- this is the main text content on the page -->
       <h1 class="content"> Contact Me: </h1>
@@ -37,7 +41,9 @@
 <!-- The below is the layout for the static form on the page -->
       <form>
 <!-- form title -->
-        <h1 class="email-title">Email me here.</h1>          
+        <div>
+          <h1 class="email-title">Email me here.</h1>
+        </div>  
 <!-- email label -->
         <div class="form-layout">
           <label for="email-from">Email:</label>
@@ -50,7 +56,7 @@
         </div>
 <!-- text section for the content of the email -->
         <div class="form-layout">
-          <textarea rows="7" cols="25" id="email-content"> </textarea>
+          <textarea rows="9" cols="45" id="email-content"> </textarea>
         </div>
 <!-- Submit button -->
         <div class="form-layout">
