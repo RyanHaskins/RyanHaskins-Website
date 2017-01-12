@@ -10,9 +10,7 @@ Theory behind the website:
 
 Text: I wanted to make sure the information throughout the website was clear and easy to read. I went with a standard font and the font colour black as this stands out the most. The reason why i used sans-serif as my back up option is because it’s compatible with most web browsers. 
 
-Images: I wanted to keep the website looking clear and readable so I didn’t use many pictures. I believe too many pictures distract the user from the information on the page. I used images where I thought they were necessary and helped improve the look of the page. The reasons why I chose these images. The home page image was of a stick figure because it helped show the website is about a person without having to use a picture of myself. I didn't want to use other people as a well-known person because then people would expect the website to be related to that person. A stick figure isn't any single person but can be used as a representation of somebody. This means i can relate the website about myself without having to use a picture of myself. 
-
-I used the superhero image to represent a drive to improvement which i spoke about on the CV page. I chose this because i felt it represented a motivational type of image. I also used this picture because it was an eye catching image that helped make the page more attractive and brought a lot more colour to it. I chose not to use any images on the Bio page because i didn't think it was necessary. 
+Images: I wanted to keep the website looking clear and readable so I didn’t use many pictures. I believe too many pictures distract the user from the information on the page. I used images where I thought they were necessary and helped improve the look of the page. The home page image was of a stick figure because it helped show the website is about a person without having to use a picture of myself. I didn't want to use other people as a well-known person because then people would expect the website to be related to that person. A stick figure isn't any single person but can be used as a representation of somebody. This means i can relate the website about myself without having to use a picture of myself. 
 
 Navigation bar: For the majority of the project i had the navigation bar directly above the website title. It looked tidy and clear but i wanted to add a quirky unique touch to the website. With this in mind i tried to offset the navigation bar with the website title. I believe it accomplishes the purpose of adding my own touch to the website. 
 
@@ -66,14 +64,14 @@ Hours taken: 5:25 (this is constant working on it.)
 Referencing:
 
 Images: 
-CV_image: Author: Alan9187, Title: Superhero, available at: https://pixabay.com/en/superhero-girl-speed-runner-534120/
+CV_image: Author: Sebaie-1992, Title: Study, available at: https://pixabay.com/en/study-boy-book-glasses-learning-1355437/
 logo_placement_holder: Author: Superfactice, Title: Magnifier, available at: https://pixabay.com/en/magnifier-user-icon-icons-www-1787362/
 index_stickman_image: Author: Clker-Free-Vector-Images, Title: Man, available at: https://pixabay.com/en/man-boy-male-black-stick-figure-296526/  
 
 Static form: 
 Author: Tom Rose, Title: HTML Form Example, available at: http://codepen.io/UoN-ThomasRose/pen/NbYrGj  
 
-Other sources used for inspiration:
+Other sources used:
 Author: Joel, Title joel.sh, available at: https://joel.sh/ 
 This was used when thinking of the content to include and the navigation bar. 
 Author: W3Schools, Title: CSS Lists, available at: http://www.w3schools.com/css/css_list.asp
