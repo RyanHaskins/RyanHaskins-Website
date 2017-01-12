@@ -2,7 +2,7 @@
 
 Assignment report.
 
-Git Hub URL: https://github.com/RyanHaskins/csy1018.git
+Git Hub URL: https://ryanhaskins.github.io/csy1018/
 
 Wire frames: please see additional files folder for the wireframes.
 
