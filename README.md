@@ -44,10 +44,10 @@ Timeline:
 
 30 minutes: It took about half an hour to set up the repository and make the folder layout. I deleted the previous work because I wanted to start the project fresh.
 
-15 mins: To lay out the basic code of each of the page so i had the footer and the header put in with a bit of content so that i could see where the paragraphs was showing.
+15 minutes: To lay out the basic code of each of the page so i had the footer and the header put in with a bit of content so that i could see where the paragraphs was showing.
 This was to check that the header and footer were set up correctly.
 
-30 mins: Took me to design and work learn how to create the navigation bar and implement it. I decided to use a horizontal list and none bullet pointed due to looking at Joel.sh home page.
+30 minutes: Took me to design and work learn how to create the navigation bar and implement it. I decided to use a horizontal list and none bullet pointed due to looking at Joel.sh home page.
 The position of the navigation bar was my idea. i used this W3schools page available here: http://www.w3schools.com/css/css_navbar.asp to get the navigation bar functioning.
 
 1 hour: To implement images on each page. This includes finding the images as i didn't want to use any images that were of me i decided to pull off some copyright free images from Pixabay. 
@@ -55,11 +55,14 @@ These images are references below. I added a div to each picture so i could make
 
 1 hour: It took me another hour to fill the pages with the right content and to style this. I covered everything on the site in divs so if i wasn’t happy with a picture i could change the div and it will change just that area.
 
-30 mins: After the content was put in it took me another 30 mins to check the content and all the styling was how I wanted it to be. 
+30 minutes: After the content was put in it took me another 30 mins to check the content and all the styling was how I wanted it to be. 
 
-40 mins: The static form i had to refer back to Tom Rose static form on this one and which is referenced below but can be found here: http://codepen.io/UoN-ThomasRose/pen/NbYrGj. I had a lot of small adjustments to make sure the spacing was equal between the lines. I found this quite challenging to accomplish. 
+40 minutes: The static form i had to refer back to Tom Rose static form on this one and which is referenced below but can be found here: http://codepen.io/UoN-ThomasRose/pen/NbYrGj. I had a lot of small adjustments to make sure the spacing was equal between the lines. I found this quite challenging to accomplish. 
 
-Hours taken: 5:25 (this is constant working on it.)
+10 minutes: For sorting out all the validation errors i had the alt tag attribute in images and also the title tag from the head was missing with the help of w3s using the following pages: http://www.w3schools.com/tags/att_img_alt.asp http://www.w3schools.com/tags/tag_title.asp
+i was able to solve the mistakes that appeared. 
+
+Hours taken: 5:35 (this is constant working on it.)
 
 Referencing:
 
@@ -72,9 +75,11 @@ Static form:
 Author: Tom Rose, Title: HTML Form Example, available at: http://codepen.io/UoN-ThomasRose/pen/NbYrGj  
 
 Other sources used:
-Author: Joel, Title joel.sh, available at: https://joel.sh/ 
+Author: Joel, Title: joel.sh, available at: https://joel.sh/ 
 This was used when thinking of the content to include and the navigation bar. 
 Author: W3Schools, Title: CSS Lists, available at: http://www.w3schools.com/css/css_list.asp
 This was used to help style my lists in the CV page. 
 Title: Google Fonts, available at: https://fonts.google.com/
-I used this to find the webfont for my website title.  
+I used this to find the webfont for my website title.
+Author: W3schools, Title: HTML <title> Tag, available at: http://www.w3schools.com/tags/tag_title.asp
+Author: W3schools, Title: HTML <img> alt Attribute, available at: http://www.w3schools.com/tags/att_img_alt.asp  
