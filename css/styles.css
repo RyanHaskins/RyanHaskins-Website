@@ -47,7 +47,6 @@ form {
   width: 100%;
   height: 120px;
   background: rgb(149,194,215);
-  margin: 10px;
 }
 
 .footer {
@@ -55,7 +54,7 @@ form {
   height: 120px;
   background: rgb(149, 194, 215);
   display:flex;
-  margin: 5px;
+  margin-top: 5px;
 }
 
 /* the code below is for styling list used for the navigation bar. */
@@ -75,10 +74,13 @@ form {
     margin-right: 590px;
 }
 
+/* the code below is used for the title */
 .title-placement {
     margin-left: 600px;
     margin-right: 600px;
 }
+
+/* code for the logo positioning in the header */
 
 .logo-placement {
   margin-left: 480px;
@@ -91,6 +93,8 @@ form {
   font-family: arial, sans-serif;
 }
 
+/* code for the index page image design */
+
 .index-image {
   height: 600px;
   width: 200px;
@@ -101,6 +105,8 @@ form {
   padding-top: 30px;
   padding-bottom: 10px;
 }
+
+/* code for the design of the logo which is placed in the header */
 
 .logo-image {
   height: 100px;
@@ -120,25 +126,29 @@ form {
 }
 
 .cv-image {
-  height: 200px;
-  width: 200px;
+  height: 400px;
+  width: 300px;
   float: right;
 }
 
 .cv-content{
   display: flex;
   justify-content: flex-start;
-  width: 600px;
+  width: 500px;
   font-family: arial, sans-serif;
 }
+
+/* design for the image on the contact page */
 
 .contact-image {
   height: 500px;
   width: 320px;
   float: right;
   display: flex;
-  justify-content: flex-start;;
+  justify-content: flex-start;
 }
+
+/* The below section is the class code for the bio page and divs */
 
 .bio-title{
   display: flex;
@@ -152,11 +162,13 @@ form {
   font-family: arial, sans-serif;
 }
 
+/* The below section is the design for the static form used within the website */
+
 .form-layout {
   margin: 10;
 }
 .email-title {
-  color: rgb(149,194,215);
+  color: black;
   text-decoration: underline;
   margin: 0;
   padding-bottom: 30px;
