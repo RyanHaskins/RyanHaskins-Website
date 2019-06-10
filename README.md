@@ -1,6 +1,6 @@
-# csy1018 16442673 Ryan Haskins
+# csy1018 16442673 Ryan Haskins First ever website.
 
-Assignment report.
+Assignment report. 
 
 Git Hub URL: https://ryanhaskins.github.io/csy1018/
 
@@ -8,9 +8,9 @@ Wire frames: please see additional files folder for the wireframes.
 
 Theory behind the website: 
 
-Text: I wanted to make sure the information throughout the website was clear and easy to read. I went with a standard font and the font colour black as this stands out the most. The reason why i used sans-serif as my back up option is because it’s compatible with most web browsers. 
+Text: I wanted to make sure the information throughout the website was clear and easy to read. I went with a standard font and the font colour black as this stands out the most. The reason why i used sans-serif as my back up option is because itâ€™s compatible with most web browsers. 
 
-Images: I wanted to keep the website looking clear and readable so I didn’t use many pictures. I believe too many pictures distract the user from the information on the page. I used images where I thought they were necessary and helped improve the look of the page. The home page image was of a stick figure because it helped show the website is about a person without having to use a picture of myself. I didn't want to use other people as a well-known person because then people would expect the website to be related to that person. A stick figure isn't any single person but can be used as a representation of somebody. This means i can relate the website about myself without having to use a picture of myself. 
+Images: I wanted to keep the website looking clear and readable so I didnâ€™t use many pictures. I believe too many pictures distract the user from the information on the page. I used images where I thought they were necessary and helped improve the look of the page. The home page image was of a stick figure because it helped show the website is about a person without having to use a picture of myself. I didn't want to use other people as a well-known person because then people would expect the website to be related to that person. A stick figure isn't any single person but can be used as a representation of somebody. This means i can relate the website about myself without having to use a picture of myself. 
 
 Navigation bar: For the majority of the project i had the navigation bar directly above the website title. It looked tidy and clear but i wanted to add a quirky unique touch to the website. With this in mind i tried to offset the navigation bar with the website title. I believe it accomplishes the purpose of adding my own touch to the website. 
 
@@ -18,9 +18,9 @@ Website title: The website title font was from the Google API Webfonts. I chose 
 
 Website Structure: I got the idea of having the header and footer all the way across the page from the Joel.sh website which was created by Joel. In order to be able to manipulate the content throughout the website I put everything into its own div this made it a lot easier to change and move.
 
-Website design: I wanted to keep it simple so i went with a white background as it makes the black text easy to read. I also decided to use a light colour for the footer and header so it doesn't feel so in your face and the blue colour doesn’t stand out so much. The light blue blends well with the white.
+Website design: I wanted to keep it simple so i went with a white background as it makes the black text easy to read. I also decided to use a light colour for the footer and header so it doesn't feel so in your face and the blue colour doesnâ€™t stand out so much. The light blue blends well with the white.
 
-Static Form: To create the static form on the contact me page i used Tom Rose's HTML Form Example. For the static form I just kept it simple and made it the area to email me I got this idea from Joel.sh website as he did the same. I got the styling and how to make it work from Tom Rose’s HTML Form Example which can be found here: http://codepen.io/UoN-ThomasRose/pen/NbYrGj  
+Static Form: To create the static form on the contact me page i used Tom Rose's HTML Form Example. For the static form I just kept it simple and made it the area to email me I got this idea from Joel.sh website as he did the same. I got the styling and how to make it work from Tom Roseâ€™s HTML Form Example which can be found here: http://codepen.io/UoN-ThomasRose/pen/NbYrGj  
 
 What worked well and what didn't:
 
@@ -32,9 +32,9 @@ The last main positive i wanted to talk about with this site is that i didn't wa
 
 Main negatives: To me i liked the idea of the website being simple and clear but i think it may not have enough eye catching features that get people more intrigued in the site. This could have been done with more colour but i would need to test a few colours first to see what goes well with light blue.
 
-I could have also accomplished this with adding a few more icons. The only place i would have implemented this would have been on the index page next to each sub heading but I’m still happy how the page looks without the icons there. 
+I could have also accomplished this with adding a few more icons. The only place i would have implemented this would have been on the index page next to each sub heading but Iâ€™m still happy how the page looks without the icons there. 
 
-Another improvement i could have made is to use a different font or colour than the basic font. This would have been done by changing the font-family in the appropriate class. When i first seen the content i was happy with how it looked so I decided I didn’t needed to change it.
+Another improvement i could have made is to use a different font or colour than the basic font. This would have been done by changing the font-family in the appropriate class. When i first seen the content i was happy with how it looked so I decided I didnâ€™t needed to change it.
 
 Something i would like to of changed is the "Email me here." title to be slightly higher up in the box which would close the gap between itself and the border line.
 
@@ -53,7 +53,7 @@ The position of the navigation bar was my idea. i used this W3schools page avail
 1 hour: To implement images on each page. This includes finding the images as i didn't want to use any images that were of me i decided to pull off some copyright free images from Pixabay. 
 These images are references below. I added a div to each picture so i could make changes to each picture on its own. 
 
-1 hour: It took me another hour to fill the pages with the right content and to style this. I covered everything on the site in divs so if i wasn’t happy with a picture i could change the div and it will change just that area.
+1 hour: It took me another hour to fill the pages with the right content and to style this. I covered everything on the site in divs so if i wasnâ€™t happy with a picture i could change the div and it will change just that area.
 
 30 minutes: After the content was put in it took me another 30 mins to check the content and all the styling was how I wanted it to be. 
 
